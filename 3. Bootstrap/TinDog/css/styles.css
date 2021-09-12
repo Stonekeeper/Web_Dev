@@ -1,0 +1,166 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+#features{
+  background-color: #fff;
+  padding: 5% 15% 7%;
+  position: relative;
+  z-index: 1;
+
+}
+
+.feature-box{
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.dog {
+
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-weight: bold;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+p {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  color: #8f8f8f;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Download Button  */
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+  transform: rotate(30deg);
+  width: 20%;
+  position: absolute;
+  left:  55%;
+  z-index: 0 ;
+}
+
+.fas {
+  color: #ef8172;
+}
+
+.fas:hover{
+  color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image{
+  width: 20%;
+  border-radius: 100%;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 4%;
+}
+
+.press-logo{
+  width: 14%;
+  margin: 10px 15px;
+}
+
+.carousel-item{
+    padding: 5% 15%;
+}
+
+/* Pricing */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-col{
+
+}
+
+/* CTA */
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 50px 0 0 10px;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+#footer{
+  background-color: #fff;
+  text-align: center;
+}
+@media (max-width:900px) {
+  #title{
+    text-align: center;
+  }
+  .title-image{
+  position: static;
+  transform: rotate(0deg);
+  width: 60%
+
+  }
+
+}
+
+.foot-icon{
+  color: black;
+  padding: 3px;
+}
