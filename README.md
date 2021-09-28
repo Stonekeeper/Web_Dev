@@ -8,3 +8,5 @@ https://docs.google.com/document/d/1kWLpWrlCqeKbSkczIaRSxvRpgpnHVwmC9uubWiD46N8/
 3.Bootstrap <br>
 4.JavaScript <br>
 5.DOM <br>
+6.jQuery <br>
+7.Node.js
