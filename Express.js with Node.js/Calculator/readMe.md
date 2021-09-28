@@ -1,4 +1,4 @@
 ## First install dependancies
 
-`npm install express <br>
-npm install body-parser`
+`npm install express`
+`npm install body-parser`
