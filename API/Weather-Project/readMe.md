@@ -1,6 +1,6 @@
-First install dependences.
+First install dependences. <br>
 `npm install express` <br>
 `npm install body-parser` <br>
 
-To run the project 
-`localhost:3000`
+To run the project <br>
+`localhost:3000`<br>
